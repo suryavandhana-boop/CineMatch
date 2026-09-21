@@ -1,0 +1,8 @@
+{
+  "name": "Remix CineMatch",
+  "description": "A modern cinematic movie recommendation app with orange and purple aesthetics, featuring discovery radar, curated recommendations, and watchlist tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
